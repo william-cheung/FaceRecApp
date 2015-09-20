@@ -1,0 +1,19 @@
+﻿  MyDialogSignUp.cpp
+d:\program files\opencv\opencv\build\include\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\visual studio 2010 ultimate\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\program files\opencv\opencv\build\include\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\visual studio 2010 ultimate\vc\include\string.h(110) : see declaration of 'strcat'
+  Generating Code...
+  Compiling...
+  FaceRecAppDlg.cpp
+d:\program files\opencv\opencv\build\include\opencv2\legacy\blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\visual studio 2010 ultimate\vc\include\string.h(105) : see declaration of 'strcpy'
+d:\program files\opencv\opencv\build\include\opencv2\legacy\blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\visual studio 2010 ultimate\vc\include\string.h(110) : see declaration of 'strcat'
+e:\learn\computer science\c++\myprograms\facerecapp\facerecapp\facerecappdlg.cpp(308): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\visual studio 2010 ultimate\vc\include\stdio.h(371) : see declaration of 'sprintf'
+e:\learn\computer science\c++\myprograms\facerecapp\facerecapp\facerecappdlg.cpp(398): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\visual studio 2010 ultimate\vc\include\stdio.h(371) : see declaration of 'sprintf'
+  FaceRecApp.cpp
+  Generating Code...
+  FaceRecApp.vcxproj -> E:\Learn\Computer Science\C++\Myprograms\FaceRecApp\Debug\FaceRecApp.exe

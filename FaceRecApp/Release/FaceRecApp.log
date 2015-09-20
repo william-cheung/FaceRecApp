@@ -1,0 +1,29 @@
+﻿Build started 6/21/2013 2:27:06 PM.
+     1>Project "H:\backup\Graduation Project\FaceRecApp\FaceRecApp\FaceRecApp.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\FaceRecApp.unsuccessfulbuild".
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\FaceRecApp.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\FaceRecApp.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CvvImage.cpp basic.cpp FaceRecApp.cpp FaceRecAppDlg.cpp Html.cpp MyDialogSignUp.cpp PCA.cpp Person.cpp
+         CvvImage.cpp
+     1>h:\backup\graduation project\facerecapp\facerecapp\CvvImage.h(5): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+         basic.cpp
+     1>h:\backup\graduation project\facerecapp\facerecapp\facerec.h(10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+         FaceRecApp.cpp
+     1>h:\backup\graduation project\facerecapp\facerecapp\FaceRecAppDlg.h(7): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+         FaceRecAppDlg.cpp
+     1>h:\backup\graduation project\facerecapp\facerecapp\FaceRecAppDlg.h(7): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+         Html.cpp
+     1>Html.cpp(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+         MyDialogSignUp.cpp
+     1>h:\backup\graduation project\facerecapp\facerecapp\MyDialogSignUp.h(3): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+         PCA.cpp
+     1>h:\backup\graduation project\facerecapp\facerecapp\facerec.h(10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+         Person.cpp
+     1>Done Building Project "H:\backup\Graduation Project\FaceRecApp\FaceRecApp\FaceRecApp.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:13.29

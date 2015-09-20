@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<nPersons>0</nPersons>
+</opencv_storage>
